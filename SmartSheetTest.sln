@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSheetAPITest", "SmartSheetAPITest\SmartSheetAPITest.csproj", "{0A9AEAE2-EB4B-4128-B606-A7F26A1E5E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSheet.ServiceFramework", "SmartSheet.ServiceFramework\SmartSheet.ServiceFramework.csproj", "{658A585F-3926-4470-B831-70336882E102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSheetObjectModel", "SmartSheetObjectModel\SmartSheetObjectModel.csproj", "{8E2012CB-BC1F-44B4-84F0-149A0857257B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonUtil", "CommonUtil\CommonUtil.csproj", "{B0CF73F0-AD9D-4CCE-8184-25E8A325D010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSheetUIFramework", "SmartSheetUIFramework\SmartSheetUIFramework.csproj", "{1B97AE48-1393-4D55-8171-276E989C75B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSheetUITest", "SmartSheetUITest\SmartSheetUITest.csproj", "{B6155CEA-409C-4484-A87C-F7D2CEE285B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9AEAE2-EB4B-4128-B606-A7F26A1E5E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9AEAE2-EB4B-4128-B606-A7F26A1E5E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9AEAE2-EB4B-4128-B606-A7F26A1E5E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9AEAE2-EB4B-4128-B606-A7F26A1E5E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658A585F-3926-4470-B831-70336882E102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658A585F-3926-4470-B831-70336882E102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658A585F-3926-4470-B831-70336882E102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658A585F-3926-4470-B831-70336882E102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2012CB-BC1F-44B4-84F0-149A0857257B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2012CB-BC1F-44B4-84F0-149A0857257B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2012CB-BC1F-44B4-84F0-149A0857257B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2012CB-BC1F-44B4-84F0-149A0857257B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CF73F0-AD9D-4CCE-8184-25E8A325D010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CF73F0-AD9D-4CCE-8184-25E8A325D010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CF73F0-AD9D-4CCE-8184-25E8A325D010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CF73F0-AD9D-4CCE-8184-25E8A325D010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B97AE48-1393-4D55-8171-276E989C75B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B97AE48-1393-4D55-8171-276E989C75B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B97AE48-1393-4D55-8171-276E989C75B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B97AE48-1393-4D55-8171-276E989C75B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6155CEA-409C-4484-A87C-F7D2CEE285B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6155CEA-409C-4484-A87C-F7D2CEE285B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6155CEA-409C-4484-A87C-F7D2CEE285B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6155CEA-409C-4484-A87C-F7D2CEE285B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6BEF62-73E5-4B9E-BB5C-5614732ECF01}
+	EndGlobalSection
+EndGlobal
